@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pi0trMakaruk
-- 👀 I’m interested in adaptive signal processing, DSP, optimization and programming.
+- 👋 Hi, I’m @makarukp
+- 👀 I’m interested in signal processing.
 - 💞️ I’m looking to collaborate on audio/image processing
 - 📫 piotr.makaruk@intel.com
 
